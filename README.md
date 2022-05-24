@@ -1,4 +1,4 @@
 hello world
-# SCM_Project1
-
-# SCM_Proj 
+# SCM_Project2 
+This is another example
+# SCM_Proj2
